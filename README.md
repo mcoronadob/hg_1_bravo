@@ -1,1 +1,28 @@
-# hg_1_bravo
+Encargado del repo: Mauricio
+<table>
+    <tr>
+        <td><b>INTEGRANTES</b></td>
+        <td><b>INFORMACION</b></td>
+        <td><b>LOCALIZACION</b></td>
+    </tr>
+    <tr>
+        <td>Maricio</td>
+        <td>Alfa</td>
+        <td>Venezuela</td>
+    </tr>
+    <tr>
+        <td>Gaby</td>
+        <td>Bravo</td>
+        <td>Venezuela</td>
+    </tr>
+    <tr>
+        <td>Wilfredo</td>
+        <td>Charlier</td>
+        <td>Venezuela</td>
+    </tr>
+    <tr>
+        <td>Juan</td>
+        <td>Delta</td>
+        <td>Venezuela</td>
+    </tr>
+ </table>
